@@ -1,6 +1,6 @@
 ## Welcome to ZimTIPB5's website 欢迎来到ZIMTIPB5的网站
 
-You can use the [editor on GitHub](https://github.com/TIPB5/TIPB5-ZIM/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+本人的频道:[BILIBILI](https://space.bilibili.com/394297705) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
