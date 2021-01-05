@@ -1,9 +1,6 @@
 ## Welcome to ZimTIPB5's website 欢迎来到ZIMTIPB5的网站
 
-本人的频道:[BILIBILI](https://space.bilibili.com/394297705) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+本人的频道my bilibili:[BILIBILI](https://space.bilibili.com/394297705) 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
